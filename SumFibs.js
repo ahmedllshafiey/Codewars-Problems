@@ -12,5 +12,3 @@ function sumFibs() {
 
   return sum;
 }
-
-console.log(sumFibs(5));
