@@ -1,0 +1,1 @@
+let createFunctions = (n) => Array.from(Array(n), (_, i) => () => i);
