@@ -16,4 +16,3 @@ function nthSmallest() {
 
   return result[arr.slice(-1)[0] - 1];
 }
-console.log(nthSmallest([2, 4, 6, 8, 10, 12], 5));
